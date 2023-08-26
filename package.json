@@ -1,0 +1,35 @@
+{
+  "name": "face-recognition-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevSimplified/Face-Recognition-JavaScript.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevSimplified/Face-Recognition-JavaScript/issues"
+  },
+  "homepage": "https://github.com/WebDevSimplified/Face-Recognition-JavaScript#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "image-data-uri": "^2.0.1",
+    "mongoose": "^6.3.4",
+    "multer": "^1.4.4"
+  }
+}
