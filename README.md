@@ -53,7 +53,6 @@ node app
 ## Code Structure
 
 MVC architecture is followed for the web-app
-
 [![Screenshot-254.png](https://i.postimg.cc/jSzXxDt0/Screenshot-254.png)](https://postimg.cc/NKjTbfKp)
 
 
