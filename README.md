@@ -1,6 +1,6 @@
 # AutomatedAttendanceSystem
 
-This is an Attendance Recording System that uses face recognition to automate attendance tracking
+This is an Attendance Recording System that uses face recognition to automate attendance tracking.
 
 ## Installation
 This application requires a nodeJS environment to run locally. To install, clone the repository and install all modules using npm
