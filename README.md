@@ -46,8 +46,6 @@ node app
 - View attendance by date by clicking on View attendance by date in the navbar
 
 [![Screenshot-251.png](https://i.postimg.cc/8zGGwkBk/Screenshot-251.png)](https://postimg.cc/N5dZjczZ)
-- Demo Link: https://drive.google.com/file/d/1py6VW2qXZX4wl-Ms6eqQvGY0N6EiXzXe/view?usp=sharing
-
 - Deployed Application Link: https://polar-lake-69598.herokuapp.com/
 
 ## Code Structure
