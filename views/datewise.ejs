@@ -1,0 +1,24 @@
+<html>
+    <title>Calender</title>
+    <%- include('./partials/head.ejs') %>
+    <body>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+        <%- include('./partials/nav.ejs') %>
+        
+        <div class=" h-75 d-flex align-items-center">
+            <div class="container">
+                <div class=" d-flex justify-content-center">
+                    <form action="/getallbydate" method="POST">
+                        <div class=" d-flex justify-content-center"><h2><label for="a_date">Select Date</label></h2></div>
+                        <div class=" d-flex justify-content-center mt-5">
+                            <input type="date" id="a_date" name="a_date">
+                            <input style = "margin-left: 10px;" class="btn btn-primary"type="submit">
+                        </div>
+                        
+                      </form>
+                </div>
+            </div>
+
+        </div>
+    </body>
+</html>
